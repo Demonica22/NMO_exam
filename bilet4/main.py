@@ -5,6 +5,7 @@ from DFPdraw import *
 
 
 def main():
+    np.seterr(divide='ignore', invalid='ignore')
     print("Sphere function:")
     x0 = np.array([[2], [1]])
     tol = 1e-3
