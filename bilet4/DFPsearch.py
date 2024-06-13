@@ -142,7 +142,8 @@ def dfpsearch(f, df, x0, tol):
 
         dx_transposed = dx.transpose()
         dy_transposed = dy.transpose()
-
+        if norm(dx) < tol:
+            break
         second = np.dot(dx, dx_transposed) / np.dot(dx_transposed, dy)
         third = np.dot(H, np.dot(np.dot(dy, dy_transposed), H)) / np.dot(np.dot(dy_transposed, H), dy)
 
