@@ -1,6 +1,6 @@
 **Задание 1**
 
-Ссылка на конспект
+[Ссылка на конспект](https://open.etu.ru/assets/courseware/v1/c79ebb156488d8b913f60ab76bc23cc9/asset-v1:kafedra-cad+opt-methods+spring_2024+type@asset+block/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%822_4.pdf)
 Метод параболической интерполяции
 
 ![img.png](img.png)
