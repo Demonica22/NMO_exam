@@ -26,6 +26,8 @@
 ](https://open.etu.ru/assets/courseware/v1/3de6db34ecc7825ecca0062fa836174e/asset-v1:kafedra-cad+opt-methods+spring_2024+type@asset+block/%D0%BA%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%823_2.pdf)
 Метод наискорейшего спуска
 
+[КОД](https://open.etu.ru/courses/course-v1:kafedra-cad+opt-methods+spring_2024/courseware/36e24e85aa75401a9ac7002730b64bb0/3c09da9407fe4ad5a23415df41d513bd/?child=first)
+
 **Суть метода:** в текущей точке находится направление антиградиента,
 и ищется точка на линии, направленной вдоль антиградиента, в которой целевая функция
 принимает наименьшее значение. 
